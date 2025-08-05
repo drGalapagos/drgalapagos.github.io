@@ -1,7 +1,14 @@
-/* Style all images in post content */
-.content a.img-link img,
-.content img
-{
+---
+---
+
+@use 'main'
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+.content img,
+.img-link img {
   /* Example styles: */
   max-width: 100%;
   height: auto;
