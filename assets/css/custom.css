@@ -9,3 +9,4 @@
   margin: 1.5em 0;
   display: block;
 }
+.content img { outline: 3px solid red; }
