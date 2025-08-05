@@ -1,4 +1,4 @@
 .toc-wrapper {
-  max-height: none !important;
-  overflow: visible !important;
+  max-height: 80vh !important; /* or a suitable value */
+  overflow-y: auto !important;
 }
