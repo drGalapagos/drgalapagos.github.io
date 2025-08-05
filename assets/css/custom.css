@@ -1,0 +1,10 @@
+/* Style all images in post content */
+.post-content img {
+  /* Example styles: */
+  max-width: 100%;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 12px #0002;
+  margin: 1.5em 0;
+  display: block;
+}
