@@ -2,7 +2,7 @@
 title: The support teams are not what they seem
 author: drGalapagos
 description: Problem description and analysis of a regular case involving a customer and a "support" team with unpleasant outcomes for the customer, and a clear win for the organization.
-date: 2025-08-04 19:00:00 +0800
+date: 2025-08-05 19:00:00 +0800
 categories: [SupportNightmares]
 tags: [Google Ads, support, failure]
 comments: false
