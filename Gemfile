@@ -9,6 +9,7 @@ gem "jekyll-seo-tag"
 gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-archives"
+gem "jekyll-include-cache"
 
 # gem "jekyll-theme-chirpy"  # <-- commented out!
 # gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
