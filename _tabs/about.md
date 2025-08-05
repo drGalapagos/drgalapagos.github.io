@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# dr Galapagos...
+{: .mt-4 .mb-0 }
+![Desktop View](/assets/commons/drG_01.jpg){: width="1199" height="900" }
+_suddenly detects something in the air while taking a morning walk in golden sunshine._
