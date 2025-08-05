@@ -5,6 +5,10 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "jekyll-remote-theme"
 gem "jekyll-paginate"
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jekyll-archives"
 
 # gem "jekyll-theme-chirpy"  # <-- commented out!
 # gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
