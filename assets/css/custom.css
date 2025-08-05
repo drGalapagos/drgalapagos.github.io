@@ -1,4 +1,5 @@
-.toc-wrapper {
-  max-height: 80vh !important; /* or a suitable value */
+#panel-wrapper, .access {
+  max-height: 90vh !important;
   overflow-y: auto !important;
+  overflow-x: visible !important;
 }
