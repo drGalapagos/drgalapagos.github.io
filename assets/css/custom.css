@@ -1,5 +1,5 @@
 /* Style all images in post content */
-.post-content img {
+.content img {
   /* Example styles: */
   max-width: 100%;
   height: auto;
@@ -7,5 +7,5 @@
   border: 1px solid #ccc;
   box-shadow: 2px 2px 12px #0002;
   margin: 1.5em 0;
-  /* display: block; */
+  display: block;
 }
