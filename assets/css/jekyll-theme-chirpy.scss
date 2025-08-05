@@ -1,11 +1,7 @@
 ---
 ---
 
-@use 'main'
-{%- if jekyll.environment == 'production' -%}
-  .bundle
-{%- endif -%}
-';
+@use "main";
 
 .content img,
 .img-link img {
