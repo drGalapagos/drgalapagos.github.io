@@ -90,7 +90,6 @@ pageviews:
 #
 theme_mode: # [light | dark]
 
-custom_css: assets/css/custom.css
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
