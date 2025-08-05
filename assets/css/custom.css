@@ -1,5 +1,7 @@
 /* Style all images in post content */
-.content img {
+.content a.img-link img,
+.content img
+{
   /* Example styles: */
   max-width: 100%;
   height: auto;
@@ -9,4 +11,4 @@
   margin: 1.5em 0;
   display: block;
 }
-.content img { outline: 3px solid red; }
+.content img { outline: 3px solid red !important; }
