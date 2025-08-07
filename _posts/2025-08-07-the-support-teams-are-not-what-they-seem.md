@@ -2,7 +2,7 @@
 title: The support teams are not what they seem
 author: drGalapagos
 description: The individual and global costs of rogue "support" teams - a case study.
-date: 2025-08-07 11:00:00 +0800
+date: 2025-08-07 17:00:00 +0800
 categories: [SupportNightmares]
 tags: [Google Ads, infernal support, dark practices]
 comments: false
