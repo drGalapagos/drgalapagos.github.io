@@ -2,7 +2,7 @@
 title: 👻 SupportNightmares 🧛 - Call for Contributions 
 author: drGalapagos
 description: A Call for Contributions to the SupportNightmares collection on GitHub.
-date: 2025-08-09 19:10:00 +0800
+date: 2025-08-09 19:00:00 +0800
 categories: [SupportNightmares]
 tags: [call for contributions, CfC, infernal support]
 comments: false
